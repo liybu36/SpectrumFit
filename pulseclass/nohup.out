@@ -1,0 +1,2529 @@
+
+[1mRooFit v3.60 -- Developed by Wouter Verkerke and David Kirkby[0m 
+                Copyright (C) 2000-2013 NIKHEF, University of California & Stanford University
+                All rights reserved, please read http://roofit.sourceforge.net/license.txt
+
+  *******************************************
+  *                                         *
+  *        W E L C O M E  to  R O O T       *
+  *                                         *
+  *   Version   5.34/21  9 September 2014   *
+  *                                         *
+  *  You are welcome to visit our Web site  *
+  *          http://root.cern.ch            *
+  *                                         *
+  *******************************************
+
+ROOT 5.34/21 (v5-34-21@v5-34-21, Sep 09 2014, 15:29:00 on linuxx8664gcc)
+
+CINT/ROOT C/C++ Interpreter version 5.18.00, July 2, 2010
+Type ? for help. Commands must be C++ statements.
+Enclose multiple statements between { }.
+PulseSplitMCEnergy_v4r_May16.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outC14.root
+NEntries= 10000000
+1000060140 => 10000000
+Normalization= 10000000
+Processing MC Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outC14_v4_clustered.root
+NEntries= 9999908
+NBins= 160	 integralsum=9.99991e+06	 counts=9999908
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo60.root
+NEntries= 8206330
+1000270600 => 8206330
+Normalization= 8206330
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo60_v4_clustered.root
+NEntries= 7410301
+NBins= 1300	 integralsum=2.39755e+06	 counts=2397554
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo57.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo57_v1.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo57_v2.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo57_v3.root
+NEntries= 40000000
+1000260579 => 4
+1000270570 => 39999996
+Normalization= 39999996
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo57_v4_clustered.root
+NEntries= 5785803
+NBins= 400	 integralsum=5876	 counts=5876
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outK40.root
+NEntries= 10000000
+1000190400 => 10000000
+Normalization= 10000000
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outK40_v4_clustered.root
+NEntries= 934886
+NBins= 800	 integralsum=57371	 counts=57371
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outTh232.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outTh232_v1.root
+NEntries= 20000000
+1000812080 => 719529
+1000822120 => 1999862
+1000832120 => 1999862
+1000842120 => 1280333
+1000842160 => 1999862
+1000862200 => 1999862
+1000882240 => 1999863
+1000882280 => 2000138
+1000892280 => 2000138
+1000902280 => 1999863
+1000902320 => 2000688
+Normalization= 2000688
+Normalization= 1999862
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outTh232_v4_clustered.root
+NEntries= 2453684
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU235.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU235_v1.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU235_v2.root
+NEntries= 30000000
+1000812070 => 2719629
+1000812071 => 63
+1000822110 => 2727261
+1000832110 => 2727261
+1000832150 => 2
+1000842110 => 7632
+1000842150 => 2727261
+1000852190 => 2
+1000862190 => 2727259
+1000872230 => 37794
+1000882230 => 2727260
+1000892270 => 2727272
+1000902270 => 2689468
+1000902310 => 2727273
+1000912310 => 2727272
+1000922350 => 2727291
+Normalization= 2727291
+Normalization= 2727259
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU235_v4_clustered.root
+NEntries= 2100836
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU238.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU238_v1.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU238_v2.root
+NEntries= 30000000
+1000812100 => 435
+1000822100 => 2142573
+1000822140 => 2142120
+1000832100 => 2142573
+1000832140 => 2142574
+1000842100 => 2142573
+1000842140 => 2142139
+1000842180 => 2142574
+1000852180 => 454
+1000862220 => 2142574
+1000882260 => 2142574
+1000902300 => 2142574
+1000902340 => 2142609
+1000912340 => 3427
+1000912341 => 2142575
+1000922340 => 2142575
+1000922341 => 400
+1000922380 => 2142677
+Normalization= 2142677
+Normalization= 2142574
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU238_v4_clustered.root
+NEntries= 2255956
+Successfully save MC Data.
+
+[1mRooFit v3.60 -- Developed by Wouter Verkerke and David Kirkby[0m 
+                Copyright (C) 2000-2013 NIKHEF, University of California & Stanford University
+                All rights reserved, please read http://roofit.sourceforge.net/license.txt
+
+  *******************************************
+  *                                         *
+  *        W E L C O M E  to  R O O T       *
+  *                                         *
+  *   Version   5.34/21  9 September 2014   *
+  *                                         *
+  *  You are welcome to visit our Web site  *
+  *          http://root.cern.ch            *
+  *                                         *
+  *******************************************
+
+ROOT 5.34/21 (v5-34-21@v5-34-21, Sep 09 2014, 15:29:00 on linuxx8664gcc)
+
+CINT/ROOT C/C++ Interpreter version 5.18.00, July 2, 2010
+Type ? for help. Commands must be C++ statements.
+Enclose multiple statements between { }.
+PulseSplitMCEnergy_v4_May16.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outC14.root
+NEntries= 10000000
+1000060140 => 10000000
+Normalization= 10000000
+Processing MC Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outC14_v4_clustered.root
+NEntries= 9999908
+NBins= 160	 integralsum=9.99991e+06	 counts=9999908
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo60.root
+NEntries= 8206330
+1000270600 => 8206330
+Normalization= 8206330
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo60_v4_clustered.root
+NEntries= 7410301
+NBins= 1300	 integralsum=2.39755e+06	 counts=2397554
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo57.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo57_v1.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo57_v2.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo57_v3.root
+NEntries= 40000000
+1000260579 => 4
+1000270570 => 39999996
+Normalization= 39999996
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo57_v4_clustered.root
+NEntries= 5785803
+NBins= 400	 integralsum=5876	 counts=5876
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outK40.root
+NEntries= 10000000
+1000190400 => 10000000
+Normalization= 10000000
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outK40_v4_clustered.root
+NEntries= 934886
+NBins= 800	 integralsum=57371	 counts=57371
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outTh232.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outTh232_v1.root
+NEntries= 20000000
+1000812080 => 719529
+1000822120 => 1999862
+1000832120 => 1999862
+1000842120 => 1280333
+1000842160 => 1999862
+1000862200 => 1999862
+1000882240 => 1999863
+1000882280 => 2000138
+1000892280 => 2000138
+1000902280 => 1999863
+1000902320 => 2000688
+Normalization= 2000688
+Normalization= 1999862
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outTh232_v4_clustered.root
+NEntries= 2453684
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU235.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU235_v1.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU235_v2.root
+NEntries= 30000000
+1000812070 => 2719629
+1000812071 => 63
+1000822110 => 2727261
+1000832110 => 2727261
+1000832150 => 2
+1000842110 => 7632
+1000842150 => 2727261
+1000852190 => 2
+1000862190 => 2727259
+1000872230 => 37794
+1000882230 => 2727260
+1000892270 => 2727272
+1000902270 => 2689468
+1000902310 => 2727273
+1000912310 => 2727272
+1000922350 => 2727291
+Normalization= 2727291
+Normalization= 2727259
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU235_v4_clustered.root
+NEntries= 2100836
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU238.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU238_v1.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU238_v2.root
+NEntries= 30000000
+1000812100 => 435
+1000822100 => 2142573
+1000822140 => 2142120
+1000832100 => 2142573
+1000832140 => 2142574
+1000842100 => 2142573
+1000842140 => 2142139
+1000842180 => 2142574
+1000852180 => 454
+1000862220 => 2142574
+1000882260 => 2142574
+1000902300 => 2142574
+1000902340 => 2142609
+1000912340 => 3427
+1000912341 => 2142575
+1000922340 => 2142575
+1000922341 => 400
+1000922380 => 2142677
+Normalization= 2142677
+Normalization= 2142574
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU238_v4_clustered.root
+NEntries= 2255956
+Successfully save MC Data.
+
+[1mRooFit v3.60 -- Developed by Wouter Verkerke and David Kirkby[0m 
+                Copyright (C) 2000-2013 NIKHEF, University of California & Stanford University
+                All rights reserved, please read http://roofit.sourceforge.net/license.txt
+
+  *******************************************
+  *                                         *
+  *        W E L C O M E  to  R O O T       *
+  *                                         *
+  *   Version   5.34/21  9 September 2014   *
+  *                                         *
+  *  You are welcome to visit our Web site  *
+  *          http://root.cern.ch            *
+  *                                         *
+  *******************************************
+
+ROOT 5.34/21 (v5-34-21@v5-34-21, Sep 09 2014, 15:29:00 on linuxx8664gcc)
+
+CINT/ROOT C/C++ Interpreter version 5.18.00, July 2, 2010
+Type ? for help. Commands must be C++ statements.
+Enclose multiple statements between { }.
+PulseSplitMCEnergy_v4r_May18.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outC14.root
+NEntries= 10000000
+1000060140 => 10000000
+Normalization= 10000000
+Processing MC Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outC14_v4_clustered.root
+NEntries= 9999908
+
+[1mRooFit v3.60 -- Developed by Wouter Verkerke and David Kirkby[0m 
+                Copyright (C) 2000-2013 NIKHEF, University of California & Stanford University
+                All rights reserved, please read http://roofit.sourceforge.net/license.txt
+
+  *******************************************
+  *                                         *
+  *        W E L C O M E  to  R O O T       *
+  *                                         *
+  *   Version   5.34/21  9 September 2014   *
+  *                                         *
+  *  You are welcome to visit our Web site  *
+  *          http://root.cern.ch            *
+  *                                         *
+  *******************************************
+
+ROOT 5.34/21 (v5-34-21@v5-34-21, Sep 09 2014, 15:29:00 on linuxx8664gcc)
+
+CINT/ROOT C/C++ Interpreter version 5.18.00, July 2, 2010
+Type ? for help. Commands must be C++ statements.
+Enclose multiple statements between { }.
+PulseSplitMCEnergy_v4r_May18.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outC14.root
+NEntries= 10000000
+1000060140 => 10000000
+Normalization= 10000000
+Processing MC Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outC14_v4_clustered.root
+NEntries= 9999908
+NBins= 160	 integralsum=9.99991e+06	 counts=9999908
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo60.root
+NEntries= 8206330
+1000270600 => 8206330
+Normalization= 8206330
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo60_v4_clustered.root
+NEntries= 7410301
+NBins= 1300	 integralsum=2.39755e+06	 counts=2397554
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo57.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo57_v1.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo57_v2.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo57_v3.root
+NEntries= 40000000
+1000260579 => 4
+1000270570 => 39999996
+Normalization= 39999996
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo57_v4_clustered.root
+NEntries= 5785803
+NBins= 400	 integralsum=5876	 counts=5876
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outK40.root
+NEntries= 10000000
+1000190400 => 10000000
+Normalization= 10000000
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outK40_v4_clustered.root
+NEntries= 934886
+NBins= 800	 integralsum=57371	 counts=57371
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outTh232.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outTh232_v1.root
+NEntries= 20000000
+1000812080 => 719529
+1000822120 => 1999862
+1000832120 => 1999862
+1000842120 => 1280333
+1000842160 => 1999862
+1000862200 => 1999862
+1000882240 => 1999863
+1000882280 => 2000138
+1000892280 => 2000138
+1000902280 => 1999863
+1000902320 => 2000688
+Normalization= 2000688
+Normalization= 1999862
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outTh232_v4_clustered.root
+NEntries= 2453684
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU235.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU235_v1.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU235_v2.root
+NEntries= 30000000
+1000812070 => 2719629
+1000812071 => 63
+1000822110 => 2727261
+1000832110 => 2727261
+1000832150 => 2
+1000842110 => 7632
+1000842150 => 2727261
+1000852190 => 2
+1000862190 => 2727259
+1000872230 => 37794
+1000882230 => 2727260
+1000892270 => 2727272
+1000902270 => 2689468
+1000902310 => 2727273
+1000912310 => 2727272
+1000922350 => 2727291
+Normalization= 2727291
+Normalization= 2727259
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU235_v4_clustered.root
+NEntries= 2100836
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU238.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU238_v1.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU238_v2.root
+NEntries= 30000000
+1000812100 => 435
+1000822100 => 2142573
+1000822140 => 2142120
+1000832100 => 2142573
+1000832140 => 2142574
+1000842100 => 2142573
+1000842140 => 2142139
+1000842180 => 2142574
+1000852180 => 454
+1000862220 => 2142574
+1000882260 => 2142574
+1000902300 => 2142574
+1000902340 => 2142609
+1000912340 => 3427
+1000912341 => 2142575
+1000922340 => 2142575
+1000922341 => 400
+1000922380 => 2142677
+Normalization= 2142677
+Normalization= 2142574
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU238_v4_clustered.root
+NEntries= 2255956
+Successfully save MC Data.
+
+[1mRooFit v3.60 -- Developed by Wouter Verkerke and David Kirkby[0m 
+                Copyright (C) 2000-2013 NIKHEF, University of California & Stanford University
+                All rights reserved, please read http://roofit.sourceforge.net/license.txt
+
+  *******************************************
+  *                                         *
+  *        W E L C O M E  to  R O O T       *
+  *                                         *
+  *   Version   5.34/21  9 September 2014   *
+  *                                         *
+  *  You are welcome to visit our Web site  *
+  *          http://root.cern.ch            *
+  *                                         *
+  *******************************************
+
+ROOT 5.34/21 (v5-34-21@v5-34-21, Sep 09 2014, 15:29:00 on linuxx8664gcc)
+
+CINT/ROOT C/C++ Interpreter version 5.18.00, July 2, 2010
+Type ? for help. Commands must be C++ statements.
+Enclose multiple statements between { }.
+PulseSplitMCEnergy_v4_May18.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outC14.root
+NEntries= 10000000
+1000060140 => 10000000
+Normalization= 10000000
+Processing MC Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outC14_v4_clustered.root
+NEntries= 9999908
+NBins= 160	 integralsum=9.99991e+06	 counts=9999908
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo60.root
+NEntries= 8206330
+1000270600 => 8206330
+Normalization= 8206330
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo60_v4_clustered.root
+NEntries= 7410301
+NBins= 1300	 integralsum=2.39755e+06	 counts=2397554
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo57.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo57_v1.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo57_v2.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo57_v3.root
+NEntries= 40000000
+1000260579 => 4
+1000270570 => 39999996
+Normalization= 39999996
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo57_v4_clustered.root
+NEntries= 5785803
+NBins= 400	 integralsum=5876	 counts=5876
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outK40.root
+NEntries= 10000000
+1000190400 => 10000000
+Normalization= 10000000
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outK40_v4_clustered.root
+NEntries= 934886
+NBins= 800	 integralsum=57371	 counts=57371
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outTh232.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outTh232_v1.root
+NEntries= 20000000
+1000812080 => 719529
+1000822120 => 1999862
+1000832120 => 1999862
+1000842120 => 1280333
+1000842160 => 1999862
+1000862200 => 1999862
+1000882240 => 1999863
+1000882280 => 2000138
+1000892280 => 2000138
+1000902280 => 1999863
+1000902320 => 2000688
+Normalization= 2000688
+Normalization= 1999862
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outTh232_v4_clustered.root
+NEntries= 2453684
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU235.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU235_v1.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU235_v2.root
+NEntries= 30000000
+1000812070 => 2719629
+1000812071 => 63
+1000822110 => 2727261
+1000832110 => 2727261
+1000832150 => 2
+1000842110 => 7632
+1000842150 => 2727261
+1000852190 => 2
+1000862190 => 2727259
+1000872230 => 37794
+1000882230 => 2727260
+1000892270 => 2727272
+1000902270 => 2689468
+1000902310 => 2727273
+1000912310 => 2727272
+1000922350 => 2727291
+Normalization= 2727291
+Normalization= 2727259
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU235_v4_clustered.root
+NEntries= 2100836
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU238.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU238_v1.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU238_v2.root
+NEntries= 30000000
+1000812100 => 435
+1000822100 => 2142573
+1000822140 => 2142120
+1000832100 => 2142573
+1000832140 => 2142574
+1000842100 => 2142573
+1000842140 => 2142139
+1000842180 => 2142574
+1000852180 => 454
+1000862220 => 2142574
+1000882260 => 2142574
+1000902300 => 2142574
+1000902340 => 2142609
+1000912340 => 3427
+1000912341 => 2142575
+1000922340 => 2142575
+1000922341 => 400
+1000922380 => 2142677
+Normalization= 2142677
+Normalization= 2142574
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU238_v4_clustered.root
+NEntries= 2255956
+Successfully save MC Data.
+
+[1mRooFit v3.60 -- Developed by Wouter Verkerke and David Kirkby[0m 
+                Copyright (C) 2000-2013 NIKHEF, University of California & Stanford University
+                All rights reserved, please read http://roofit.sourceforge.net/license.txt
+
+  *******************************************
+  *                                         *
+  *        W E L C O M E  to  R O O T       *
+  *                                         *
+  *   Version   5.34/21  9 September 2014   *
+  *                                         *
+  *  You are welcome to visit our Web site  *
+  *          http://root.cern.ch            *
+  *                                         *
+  *******************************************
+
+ROOT 5.34/21 (v5-34-21@v5-34-21, Sep 09 2014, 15:29:00 on linuxx8664gcc)
+
+CINT/ROOT C/C++ Interpreter version 5.18.00, July 2, 2010
+Type ? for help. Commands must be C++ statements.
+Enclose multiple statements between { }.
+PulseSplitMCEnergy_v4r_May20.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outC14.root
+NEntries= 10000000
+1000060140 => 10000000
+Normalization= 10000000
+Processing MC Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outC14_v4_clustered.root
+NEntries= 9999908
+NBins= 160	 integralsum=9.99991e+06	 counts=9999908
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo60.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo60_v1.root
+NEntries= 8451109
+1000270600 => 8451109
+Normalization= 8451109
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo60_v4_clustered.root
+NEntries= 7253459
+NBins= 1300	 integralsum=1.08348e+06	 counts=1083477
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo57.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo57_v1.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo57_v2.root
+NEntries= 30000000
+1000260579 => 3
+1000270570 => 29999997
+Normalization= 29999997
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo57_v4_clustered.root
+NEntries= 1123672
+NBins= 400	 integralsum=633	 counts=633
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outK40.root
+NEntries= 10000000
+1000190400 => 10000000
+Normalization= 10000000
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outK40_v4_clustered.root
+NEntries= 714396
+NBins= 800	 integralsum=16404	 counts=16404
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outTh232.root
+NEntries= 10000000
+1000812080 => 359653
+1000822120 => 999898
+1000832120 => 999771
+1000842120 => 640074
+1000842160 => 999923
+1000862200 => 999942
+1000882240 => 999964
+1000882280 => 1000151
+1000892280 => 1000150
+1000902280 => 999998
+1000902320 => 1000476
+Normalization= 1000476
+Normalization= 999942
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outTh232_v4_clustered.root
+NEntries= 1001475
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU235.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU235_v1.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU235_v2.root
+NEntries= 30000000
+1000150320 => 2
+1000812070 => 2719057
+1000812071 => 46
+1000822110 => 2726865
+1000832110 => 2727126
+1000832150 => 3
+1000842110 => 7723
+1000842150 => 2726906
+1000852190 => 3
+1000862190 => 2727060
+1000872230 => 37397
+1000882230 => 2727211
+1000892270 => 2727389
+1000902270 => 2689999
+1000902310 => 2727450
+1000912310 => 2727449
+1000922350 => 2728314
+Normalization= 2728314
+Normalization= 2727060
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU235_v4_clustered.root
+NEntries= 1156917
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU238.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU238_v1.root
+NEntries= 20000000
+1000812100 => 260
+1000822100 => 1428086
+1000822140 => 1428145
+1000832100 => 1428119
+1000832140 => 1428314
+1000842100 => 1428118
+1000842140 => 1428032
+1000842180 => 1428470
+1000852180 => 292
+1000862180 => 1
+1000862220 => 1428511
+1000882260 => 1428518
+1000902300 => 1428525
+1000902340 => 1428547
+1000912340 => 2287
+1000912341 => 1428558
+1000922340 => 1428557
+1000922341 => 19
+1000922380 => 1428641
+Normalization= 1428641
+Normalization= 1428511
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU238_v4_clustered.root
+NEntries= 1194158
+Successfully save MC Data.
+
+[1mRooFit v3.60 -- Developed by Wouter Verkerke and David Kirkby[0m 
+                Copyright (C) 2000-2013 NIKHEF, University of California & Stanford University
+                All rights reserved, please read http://roofit.sourceforge.net/license.txt
+
+  *******************************************
+  *                                         *
+  *        W E L C O M E  to  R O O T       *
+  *                                         *
+  *   Version   5.34/21  9 September 2014   *
+  *                                         *
+  *  You are welcome to visit our Web site  *
+  *          http://root.cern.ch            *
+  *                                         *
+  *******************************************
+
+ROOT 5.34/21 (v5-34-21@v5-34-21, Sep 09 2014, 15:29:00 on linuxx8664gcc)
+
+CINT/ROOT C/C++ Interpreter version 5.18.00, July 2, 2010
+Type ? for help. Commands must be C++ statements.
+Enclose multiple statements between { }.
+PulseSplitMCEnergy_v4_May20.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outC14.root
+NEntries= 10000000
+1000060140 => 10000000
+Normalization= 10000000
+Processing MC Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outC14_v4_clustered.root
+NEntries= 9999908
+NBins= 160	 integralsum=9.99991e+06	 counts=9999908
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo60.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo60_v1.root
+NEntries= 8451109
+1000270600 => 8451109
+Normalization= 8451109
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo60_v4_clustered.root
+NEntries= 7253459
+NBins= 1300	 integralsum=1.08348e+06	 counts=1083477
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo57.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo57_v1.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo57_v2.root
+NEntries= 30000000
+1000260579 => 3
+1000270570 => 29999997
+Normalization= 29999997
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo57_v4_clustered.root
+NEntries= 1123672
+NBins= 400	 integralsum=633	 counts=633
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outK40.root
+NEntries= 10000000
+1000190400 => 10000000
+Normalization= 10000000
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outK40_v4_clustered.root
+NEntries= 714396
+NBins= 800	 integralsum=16404	 counts=16404
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outTh232.root
+NEntries= 10000000
+1000812080 => 359653
+1000822120 => 999898
+1000832120 => 999771
+1000842120 => 640074
+1000842160 => 999923
+1000862200 => 999942
+1000882240 => 999964
+1000882280 => 1000151
+1000892280 => 1000150
+1000902280 => 999998
+1000902320 => 1000476
+Normalization= 1000476
+Normalization= 999942
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outTh232_v4_clustered.root
+NEntries= 1001475
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU235.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU235_v1.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU235_v2.root
+NEntries= 30000000
+1000150320 => 2
+1000812070 => 2719057
+1000812071 => 46
+1000822110 => 2726865
+1000832110 => 2727126
+1000832150 => 3
+1000842110 => 7723
+1000842150 => 2726906
+1000852190 => 3
+1000862190 => 2727060
+1000872230 => 37397
+1000882230 => 2727211
+1000892270 => 2727389
+1000902270 => 2689999
+1000902310 => 2727450
+1000912310 => 2727449
+1000922350 => 2728314
+Normalization= 2728314
+Normalization= 2727060
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU235_v4_clustered.root
+NEntries= 1156917
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU238.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU238_v1.root
+NEntries= 20000000
+1000812100 => 260
+1000822100 => 1428086
+1000822140 => 1428145
+1000832100 => 1428119
+1000832140 => 1428314
+1000842100 => 1428118
+1000842140 => 1428032
+1000842180 => 1428470
+1000852180 => 292
+1000862180 => 1
+1000862220 => 1428511
+1000882260 => 1428518
+1000902300 => 1428525
+1000902340 => 1428547
+1000912340 => 2287
+1000912341 => 1428558
+1000922340 => 1428557
+1000922341 => 19
+1000922380 => 1428641
+Normalization= 1428641
+Normalization= 1428511
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU238_v4_clustered.root
+NEntries= 1194158
+Successfully save MC Data.
+
+[1mRooFit v3.60 -- Developed by Wouter Verkerke and David Kirkby[0m 
+                Copyright (C) 2000-2013 NIKHEF, University of California & Stanford University
+                All rights reserved, please read http://roofit.sourceforge.net/license.txt
+
+  *******************************************
+  *                                         *
+  *        W E L C O M E  to  R O O T       *
+  *                                         *
+  *   Version   5.34/21  9 September 2014   *
+  *                                         *
+  *  You are welcome to visit our Web site  *
+  *          http://root.cern.ch            *
+  *                                         *
+  *******************************************
+
+ROOT 5.34/21 (v5-34-21@v5-34-21, Sep 09 2014, 15:29:00 on linuxx8664gcc)
+
+CINT/ROOT C/C++ Interpreter version 5.18.00, July 2, 2010
+Type ? for help. Commands must be C++ statements.
+Enclose multiple statements between { }.
+PulseSplitMCEnergy_v4r_May22.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outC14.root
+NEntries= 10000000
+1000060140 => 10000000
+Normalization= 10000000
+Processing MC Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outC14_v4_clustered.root
+NEntries= 9999908
+NBins= 160	 integralsum=9.99991e+06	 counts=9999908
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo60.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo60_v1.root
+NEntries= 8451109
+1000270600 => 8451109
+Normalization= 8451109
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo60_v4_clustered.root
+NEntries= 7253459
+NBins= 1300	 integralsum=1.08348e+06	 counts=1083477
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo57.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo57_v1.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo57_v2.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo57_v3.root
+NEntries= 40000000
+1000260579 => 4
+1000270570 => 39999996
+Normalization= 39999996
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo57_v4_clustered.root
+NEntries= 1497586
+NBins= 400	 integralsum=848	 counts=848
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outK40.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outK40_v1.root
+NEntries= 20000000
+1000190400 => 20000000
+Normalization= 20000000
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outK40_v4_clustered.root
+NEntries= 1428447
+NBins= 800	 integralsum=32686	 counts=32686
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outTh232.root
+NEntries= 10000000
+1000812080 => 359653
+1000822120 => 999898
+1000832120 => 999771
+1000842120 => 640074
+1000842160 => 999923
+1000862200 => 999942
+1000882240 => 999964
+1000882280 => 1000151
+1000892280 => 1000150
+1000902280 => 999998
+1000902320 => 1000476
+Normalization= 1000476
+Normalization= 999942
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outTh232_v4_clustered.root
+NEntries= 1001475
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU235.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU235_v1.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU235_v2.root
+NEntries= 30000000
+1000150320 => 2
+1000812070 => 2719057
+1000812071 => 46
+1000822110 => 2726865
+1000832110 => 2727126
+1000832150 => 3
+1000842110 => 7723
+1000842150 => 2726906
+1000852190 => 3
+1000862190 => 2727060
+1000872230 => 37397
+1000882230 => 2727211
+1000892270 => 2727389
+1000902270 => 2689999
+1000902310 => 2727450
+1000912310 => 2727449
+1000922350 => 2728314
+Normalization= 2728314
+Normalization= 2727060
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU235_v4_clustered.root
+NEntries= 1156917
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU238.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU238_v1.root
+NEntries= 20000000
+1000812100 => 260
+1000822100 => 1428086
+1000822140 => 1428145
+1000832100 => 1428119
+1000832140 => 1428314
+1000842100 => 1428118
+1000842140 => 1428032
+1000842180 => 1428470
+1000852180 => 292
+1000862180 => 1
+1000862220 => 1428511
+1000882260 => 1428518
+1000902300 => 1428525
+1000902340 => 1428547
+1000912340 => 2287
+1000912341 => 1428558
+1000922340 => 1428557
+1000922341 => 19
+1000922380 => 1428641
+Normalization= 1428641
+Normalization= 1428511
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU238_v4_clustered.root
+NEntries= 1194158
+Successfully save MC Data.
+
+[1mRooFit v3.60 -- Developed by Wouter Verkerke and David Kirkby[0m 
+                Copyright (C) 2000-2013 NIKHEF, University of California & Stanford University
+                All rights reserved, please read http://roofit.sourceforge.net/license.txt
+
+  *******************************************
+  *                                         *
+  *        W E L C O M E  to  R O O T       *
+  *                                         *
+  *   Version   5.34/21  9 September 2014   *
+  *                                         *
+  *  You are welcome to visit our Web site  *
+  *          http://root.cern.ch            *
+  *                                         *
+  *******************************************
+
+ROOT 5.34/21 (v5-34-21@v5-34-21, Sep 09 2014, 15:29:00 on linuxx8664gcc)
+
+CINT/ROOT C/C++ Interpreter version 5.18.00, July 2, 2010
+Type ? for help. Commands must be C++ statements.
+Enclose multiple statements between { }.
+PulseSplitMCEnergy_v4_May22.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outC14.root
+NEntries= 10000000
+1000060140 => 10000000
+Normalization= 10000000
+Processing MC Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outC14_v4_clustered.root
+NEntries= 9999908
+NBins= 160	 integralsum=9.99991e+06	 counts=9999908
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo60.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo60_v1.root
+NEntries= 8451109
+1000270600 => 8451109
+Normalization= 8451109
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo60_v4_clustered.root
+NEntries= 7253459
+NBins= 1300	 integralsum=1.08348e+06	 counts=1083477
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo57.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo57_v1.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo57_v2.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo57_v3.root
+NEntries= 40000000
+1000260579 => 4
+1000270570 => 39999996
+Normalization= 39999996
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo57_v4_clustered.root
+NEntries= 1497586
+NBins= 400	 integralsum=848	 counts=848
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outK40.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outK40_v1.root
+NEntries= 20000000
+1000190400 => 20000000
+Normalization= 20000000
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outK40_v4_clustered.root
+NEntries= 1428447
+NBins= 800	 integralsum=32686	 counts=32686
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outTh232.root
+NEntries= 10000000
+1000812080 => 359653
+1000822120 => 999898
+1000832120 => 999771
+1000842120 => 640074
+1000842160 => 999923
+1000862200 => 999942
+1000882240 => 999964
+1000882280 => 1000151
+1000892280 => 1000150
+1000902280 => 999998
+1000902320 => 1000476
+Normalization= 1000476
+Normalization= 999942
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outTh232_v4_clustered.root
+NEntries= 1001475
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU235.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU235_v1.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU235_v2.root
+NEntries= 30000000
+1000150320 => 2
+1000812070 => 2719057
+1000812071 => 46
+1000822110 => 2726865
+1000832110 => 2727126
+1000832150 => 3
+1000842110 => 7723
+1000842150 => 2726906
+1000852190 => 3
+1000862190 => 2727060
+1000872230 => 37397
+1000882230 => 2727211
+1000892270 => 2727389
+1000902270 => 2689999
+1000902310 => 2727450
+1000912310 => 2727449
+1000922350 => 2728314
+Normalization= 2728314
+Normalization= 2727060
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU235_v4_clustered.root
+NEntries= 1156917
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU238.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU238_v1.root
+NEntries= 20000000
+1000812100 => 260
+1000822100 => 1428086
+1000822140 => 1428145
+1000832100 => 1428119
+1000832140 => 1428314
+1000842100 => 1428118
+1000842140 => 1428032
+1000842180 => 1428470
+1000852180 => 292
+1000862180 => 1
+1000862220 => 1428511
+1000882260 => 1428518
+1000902300 => 1428525
+1000902340 => 1428547
+1000912340 => 2287
+1000912341 => 1428558
+1000922340 => 1428557
+1000922341 => 19
+1000922380 => 1428641
+Normalization= 1428641
+Normalization= 1428511
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU238_v4_clustered.root
+NEntries= 1194158
+Successfully save MC Data.
+
+[1mRooFit v3.60 -- Developed by Wouter Verkerke and David Kirkby[0m 
+                Copyright (C) 2000-2013 NIKHEF, University of California & Stanford University
+                All rights reserved, please read http://roofit.sourceforge.net/license.txt
+
+  *******************************************
+  *                                         *
+  *        W E L C O M E  to  R O O T       *
+  *                                         *
+  *   Version   5.34/21  9 September 2014   *
+  *                                         *
+  *  You are welcome to visit our Web site  *
+  *          http://root.cern.ch            *
+  *                                         *
+  *******************************************
+
+ROOT 5.34/21 (v5-34-21@v5-34-21, Sep 09 2014, 15:29:00 on linuxx8664gcc)
+
+CINT/ROOT C/C++ Interpreter version 5.18.00, July 2, 2010
+Type ? for help. Commands must be C++ statements.
+Enclose multiple statements between { }.
+PulseSplitMCEnergy_v4r_May24.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outC14.root
+NEntries= 10000000
+1000060140 => 10000000
+Normalization= 10000000
+Processing MC Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outC14_v4_clustered.root
+NEntries= 9999908
+NBins= 160	 integralsum=9.99991e+06	 counts=9999908
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo60.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo60_v1.root
+NEntries= 8451109
+1000270600 => 8451109
+Normalization= 8451109
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo60_v4_clustered.root
+NEntries= 7253459
+NBins= 1300	 integralsum=1.08348e+06	 counts=1083477
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo57.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo57_v1.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo57_v2.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo57_v3.root
+NEntries= 40000000
+1000260579 => 4
+1000270570 => 39999996
+Normalization= 39999996
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo57_v4_clustered.root
+NEntries= 1497586
+NBins= 400	 integralsum=848	 counts=848
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outK40.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outK40_v1.root
+NEntries= 20000000
+1000190400 => 20000000
+Normalization= 20000000
+Processing MC Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outK40_v4_clustered.root
+NEntries= 1428447
+NBins= 1600	 integralsum=1.20218e+06	 counts=1202181
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outTh232.root
+NEntries= 10000000
+1000812080 => 359653
+1000822120 => 999898
+1000832120 => 999771
+1000842120 => 640074
+1000842160 => 999923
+1000862200 => 999942
+1000882240 => 999964
+1000882280 => 1000151
+1000892280 => 1000150
+1000902280 => 999998
+1000902320 => 1000476
+Normalization= 1000476
+Normalization= 999942
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outTh232_v4_clustered.root
+NEntries= 1001475
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU235.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU235_v1.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU235_v2.root
+NEntries= 30000000
+1000150320 => 2
+1000812070 => 2719057
+1000812071 => 46
+1000822110 => 2726865
+1000832110 => 2727126
+1000832150 => 3
+1000842110 => 7723
+1000842150 => 2726906
+1000852190 => 3
+1000862190 => 2727060
+1000872230 => 37397
+1000882230 => 2727211
+1000892270 => 2727389
+1000902270 => 2689999
+1000902310 => 2727450
+1000912310 => 2727449
+1000922350 => 2728314
+Normalization= 2728314
+Normalization= 2727060
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU235_v4_clustered.root
+NEntries= 1156917
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU238.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU238_v1.root
+NEntries= 20000000
+1000812100 => 260
+1000822100 => 1428086
+1000822140 => 1428145
+1000832100 => 1428119
+1000832140 => 1428314
+1000842100 => 1428118
+1000842140 => 1428032
+1000842180 => 1428470
+1000852180 => 292
+1000862180 => 1
+1000862220 => 1428511
+1000882260 => 1428518
+1000902300 => 1428525
+1000902340 => 1428547
+1000912340 => 2287
+1000912341 => 1428558
+1000922340 => 1428557
+1000922341 => 19
+1000922380 => 1428641
+Normalization= 1428641
+Normalization= 1428511
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU238_v4_clustered.root
+NEntries= 1194158
+Successfully save MC Data.
+
+[1mRooFit v3.60 -- Developed by Wouter Verkerke and David Kirkby[0m 
+                Copyright (C) 2000-2013 NIKHEF, University of California & Stanford University
+                All rights reserved, please read http://roofit.sourceforge.net/license.txt
+
+  *******************************************
+  *                                         *
+  *        W E L C O M E  to  R O O T       *
+  *                                         *
+  *   Version   5.34/21  9 September 2014   *
+  *                                         *
+  *  You are welcome to visit our Web site  *
+  *          http://root.cern.ch            *
+  *                                         *
+  *******************************************
+
+ROOT 5.34/21 (v5-34-21@v5-34-21, Sep 09 2014, 15:29:00 on linuxx8664gcc)
+
+CINT/ROOT C/C++ Interpreter version 5.18.00, July 2, 2010
+Type ? for help. Commands must be C++ statements.
+Enclose multiple statements between { }.
+PulseSplitMCEnergy_v4_May24.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outC14.root
+NEntries= 10000000
+1000060140 => 10000000
+Normalization= 10000000
+Processing MC Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outC14_v4_clustered.root
+NEntries= 9999908
+NBins= 160	 integralsum=9.99991e+06	 counts=9999908
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo60.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo60_v1.root
+NEntries= 8451109
+1000270600 => 8451109
+Normalization= 8451109
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo60_v4_clustered.root
+NEntries= 7253459
+NBins= 1300	 integralsum=1.08348e+06	 counts=1083477
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo57.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo57_v1.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo57_v2.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo57_v3.root
+NEntries= 40000000
+1000260579 => 4
+1000270570 => 39999996
+Normalization= 39999996
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo57_v4_clustered.root
+NEntries= 1497586
+NBins= 400	 integralsum=848	 counts=848
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outK40.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outK40_v1.root
+NEntries= 20000000
+1000190400 => 20000000
+Normalization= 20000000
+Processing MC Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outK40_v4_clustered.root
+NEntries= 1428447
+NBins= 1600	 integralsum=1.20218e+06	 counts=1202181
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outTh232.root
+NEntries= 10000000
+1000812080 => 359653
+1000822120 => 999898
+1000832120 => 999771
+1000842120 => 640074
+1000842160 => 999923
+1000862200 => 999942
+1000882240 => 999964
+1000882280 => 1000151
+1000892280 => 1000150
+1000902280 => 999998
+1000902320 => 1000476
+Normalization= 1000476
+Normalization= 999942
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outTh232_v4_clustered.root
+NEntries= 1001475
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU235.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU235_v1.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU235_v2.root
+NEntries= 30000000
+1000150320 => 2
+1000812070 => 2719057
+1000812071 => 46
+1000822110 => 2726865
+1000832110 => 2727126
+1000832150 => 3
+1000842110 => 7723
+1000842150 => 2726906
+1000852190 => 3
+1000862190 => 2727060
+1000872230 => 37397
+1000882230 => 2727211
+1000892270 => 2727389
+1000902270 => 2689999
+1000902310 => 2727450
+1000912310 => 2727449
+1000922350 => 2728314
+Normalization= 2728314
+Normalization= 2727060
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU235_v4_clustered.root
+NEntries= 1156917
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU238.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU238_v1.root
+NEntries= 20000000
+1000812100 => 260
+1000822100 => 1428086
+1000822140 => 1428145
+1000832100 => 1428119
+1000832140 => 1428314
+1000842100 => 1428118
+1000842140 => 1428032
+1000842180 => 1428470
+1000852180 => 292
+1000862180 => 1
+1000862220 => 1428511
+1000882260 => 1428518
+1000902300 => 1428525
+1000902340 => 1428547
+1000912340 => 2287
+1000912341 => 1428558
+1000922340 => 1428557
+1000922341 => 19
+1000922380 => 1428641
+Normalization= 1428641
+Normalization= 1428511
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU238_v4_clustered.root
+NEntries= 1194158
+Successfully save MC Data.
+  *******************************************
+  *                                         *
+  *        W E L C O M E  to  R O O T       *
+  *                                         *
+  *   Version   5.34/21  9 September 2014   *
+  *                                         *
+  *  You are welcome to visit our Web site  *
+  *          http://root.cern.ch            *
+  *                                         *
+  *******************************************
+
+ROOT 5.34/21 (v5-34-21@v5-34-21, Sep 09 2014, 15:29:00 on linuxx8664gcc)
+
+CINT/ROOT C/C++ Interpreter version 5.18.00, July 2, 2010
+Type ? for help. Commands must be C++ statements.
+Enclose multiple statements between { }.
+PulseSplitMCEnergy_v4r_May26.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outC14.root
+NEntries= 10000000
+1000060140 => 10000000
+Normalization= 10000000
+Processing MC Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outC14_v4_clustered.root
+NEntries= 9999908
+NBins= 160	 integralsum=9.99991e+06	 counts=9999908
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo60.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo60_v1.root
+NEntries= 8451109
+1000270600 => 8451109
+Normalization= 8451109
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo60_v4_clustered.root
+NEntries= 7253459
+NBins= 1300	 integralsum=6.52227e+06	 counts=6522272
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo57.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo57_v1.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo57_v2.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo57_v3.root
+NEntries= 40000000
+1000260579 => 4
+1000270570 => 39999996
+Normalization= 39999996
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo57_v4_clustered.root
+NEntries= 1497586
+NBins= 400	 integralsum=831664	 counts=831663
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outK40.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outK40_v1.root
+NEntries= 20000000
+1000190400 => 20000000
+Normalization= 20000000
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outK40_v4_clustered.root
+NEntries= 1428447
+NBins= 800	 integralsum=1.20218e+06	 counts=1202181
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outTh232.root
+NEntries= 10000000
+1000812080 => 359653
+1000822120 => 999898
+1000832120 => 999771
+1000842120 => 640074
+1000842160 => 999923
+1000862200 => 999942
+1000882240 => 999964
+1000882280 => 1000151
+1000892280 => 1000150
+1000902280 => 999998
+1000902320 => 1000476
+Normalization= 1000476
+Normalization= 999942
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outTh232_v4_clustered.root
+NEntries= 1001475
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU235.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU235_v1.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU235_v2.root
+NEntries= 30000000
+1000150320 => 2
+1000812070 => 2719057
+1000812071 => 46
+1000822110 => 2726865
+1000832110 => 2727126
+1000832150 => 3
+1000842110 => 7723
+1000842150 => 2726906
+1000852190 => 3
+1000862190 => 2727060
+1000872230 => 37397
+1000882230 => 2727211
+1000892270 => 2727389
+1000902270 => 2689999
+1000902310 => 2727450
+1000912310 => 2727449
+1000922350 => 2728314
+Normalization= 2728314
+Normalization= 2727060
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU235_v4_clustered.root
+NEntries= 1156917
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU238.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU238_v1.root
+NEntries= 20000000
+1000812100 => 260
+1000822100 => 1428086
+1000822140 => 1428145
+1000832100 => 1428119
+1000832140 => 1428314
+1000842100 => 1428118
+1000842140 => 1428032
+1000842180 => 1428470
+1000852180 => 292
+1000862180 => 1
+1000862220 => 1428511
+1000882260 => 1428518
+1000902300 => 1428525
+1000902340 => 1428547
+1000912340 => 2287
+1000912341 => 1428558
+1000922340 => 1428557
+1000922341 => 19
+1000922380 => 1428641
+Normalization= 1428641
+Normalization= 1428511
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU238_v4_clustered.root
+NEntries= 1194158
+Successfully save MC Data.
+  *******************************************
+  *                                         *
+  *        W E L C O M E  to  R O O T       *
+  *                                         *
+  *   Version   5.34/21  9 September 2014   *
+  *                                         *
+  *  You are welcome to visit our Web site  *
+  *          http://root.cern.ch            *
+  *                                         *
+  *******************************************
+
+ROOT 5.34/21 (v5-34-21@v5-34-21, Sep 09 2014, 15:29:00 on linuxx8664gcc)
+
+CINT/ROOT C/C++ Interpreter version 5.18.00, July 2, 2010
+Type ? for help. Commands must be C++ statements.
+Enclose multiple statements between { }.
+PulseSplitMCEnergy_v4r_May28.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outC14.root
+NEntries= 10000000
+1000060140 => 10000000
+Normalization= 10000000
+Processing MC Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outC14_v4_clustered.root
+NEntries= 9999908
+NBins= 160	 integralsum=9.99991e+06	 counts=9999908
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo60.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo60_v1.root
+NEntries= 8451109
+1000270600 => 8451109
+Normalization= 8451109
+Processing MC Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo60_v4_clustered.root
+NEntries= 7253459
+NBins= 2600	 integralsum=6.52227e+06	 counts=6522272
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo57.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo57_v1.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo57_v2.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo57_v3.root
+NEntries= 40000000
+1000260579 => 4
+1000270570 => 39999996
+Normalization= 39999996
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo57_v4_clustered.root
+NEntries= 1497586
+NBins= 400	 integralsum=848	 counts=848
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outK40.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outK40_v1.root
+NEntries= 20000000
+1000190400 => 20000000
+Normalization= 20000000
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outK40_v4_clustered.root
+NEntries= 1428447
+NBins= 800	 integralsum=32686	 counts=32686
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outTh232.root
+NEntries= 10000000
+1000812080 => 359653
+1000822120 => 999898
+1000832120 => 999771
+1000842120 => 640074
+1000842160 => 999923
+1000862200 => 999942
+1000882240 => 999964
+1000882280 => 1000151
+1000892280 => 1000150
+1000902280 => 999998
+1000902320 => 1000476
+Normalization= 1000476
+Normalization= 999942
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outTh232_v4_clustered.root
+NEntries= 1001475
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU235.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU235_v1.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU235_v2.root
+NEntries= 30000000
+1000150320 => 2
+1000812070 => 2719057
+1000812071 => 46
+1000822110 => 2726865
+1000832110 => 2727126
+1000832150 => 3
+1000842110 => 7723
+1000842150 => 2726906
+1000852190 => 3
+1000862190 => 2727060
+1000872230 => 37397
+1000882230 => 2727211
+1000892270 => 2727389
+1000902270 => 2689999
+1000902310 => 2727450
+1000912310 => 2727449
+1000922350 => 2728314
+Normalization= 2728314
+Normalization= 2727060
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU235_v4_clustered.root
+NEntries= 1156917
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU238.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU238_v1.root
+NEntries= 20000000
+1000812100 => 260
+1000822100 => 1428086
+1000822140 => 1428145
+1000832100 => 1428119
+1000832140 => 1428314
+1000842100 => 1428118
+1000842140 => 1428032
+1000842180 => 1428470
+1000852180 => 292
+1000862180 => 1
+1000862220 => 1428511
+1000882260 => 1428518
+1000902300 => 1428525
+1000902340 => 1428547
+1000912340 => 2287
+1000912341 => 1428558
+1000922340 => 1428557
+1000922341 => 19
+1000922380 => 1428641
+Normalization= 1428641
+Normalization= 1428511
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU238_v4_clustered.root
+NEntries= 1194158
+Successfully save MC Data.
+  *******************************************
+  *                                         *
+  *        W E L C O M E  to  R O O T       *
+  *                                         *
+  *   Version   5.34/21  9 September 2014   *
+  *                                         *
+  *  You are welcome to visit our Web site  *
+  *          http://root.cern.ch            *
+  *                                         *
+  *******************************************
+
+ROOT 5.34/21 (v5-34-21@v5-34-21, Sep 09 2014, 15:29:00 on linuxx8664gcc)
+
+CINT/ROOT C/C++ Interpreter version 5.18.00, July 2, 2010
+Type ? for help. Commands must be C++ statements.
+Enclose multiple statements between { }.
+PulseSplitMCEnergy_v4_May28.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outC14.root
+NEntries= 10000000
+1000060140 => 10000000
+Normalization= 10000000
+Processing MC Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outC14_v4_clustered.root
+NEntries= 9999908
+NBins= 160	 integralsum=9.99991e+06	 counts=9999908
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo60.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo60_v1.root
+NEntries= 8451109
+1000270600 => 8451109
+Normalization= 8451109
+Processing MC Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo60_v4_clustered.root
+NEntries= 7253459
+NBins= 2600	 integralsum=6.52227e+06	 counts=6522272
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo57.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo57_v1.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo57_v2.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo57_v3.root
+NEntries= 40000000
+1000260579 => 4
+1000270570 => 39999996
+Normalization= 39999996
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo57_v4_clustered.root
+NEntries= 1497586
+NBins= 400	 integralsum=848	 counts=848
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outK40.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outK40_v1.root
+NEntries= 20000000
+1000190400 => 20000000
+Normalization= 20000000
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outK40_v4_clustered.root
+NEntries= 1428447
+NBins= 800	 integralsum=32686	 counts=32686
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outTh232.root
+NEntries= 10000000
+1000812080 => 359653
+1000822120 => 999898
+1000832120 => 999771
+1000842120 => 640074
+1000842160 => 999923
+1000862200 => 999942
+1000882240 => 999964
+1000882280 => 1000151
+1000892280 => 1000150
+1000902280 => 999998
+1000902320 => 1000476
+Normalization= 1000476
+Normalization= 999942
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outTh232_v4_clustered.root
+NEntries= 1001475
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU235.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU235_v1.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU235_v2.root
+NEntries= 30000000
+1000150320 => 2
+1000812070 => 2719057
+1000812071 => 46
+1000822110 => 2726865
+1000832110 => 2727126
+1000832150 => 3
+1000842110 => 7723
+1000842150 => 2726906
+1000852190 => 3
+1000862190 => 2727060
+1000872230 => 37397
+1000882230 => 2727211
+1000892270 => 2727389
+1000902270 => 2689999
+1000902310 => 2727450
+1000912310 => 2727449
+1000922350 => 2728314
+Normalization= 2728314
+Normalization= 2727060
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU235_v4_clustered.root
+NEntries= 1156917
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU238.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU238_v1.root
+NEntries= 20000000
+1000812100 => 260
+1000822100 => 1428086
+1000822140 => 1428145
+1000832100 => 1428119
+1000832140 => 1428314
+1000842100 => 1428118
+1000842140 => 1428032
+1000842180 => 1428470
+1000852180 => 292
+1000862180 => 1
+1000862220 => 1428511
+1000882260 => 1428518
+1000902300 => 1428525
+1000902340 => 1428547
+1000912340 => 2287
+1000912341 => 1428558
+1000922340 => 1428557
+1000922341 => 19
+1000922380 => 1428641
+Normalization= 1428641
+Normalization= 1428511
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU238_v4_clustered.root
+NEntries= 1194158
+Successfully save MC Data.
+  *******************************************
+  *                                         *
+  *        W E L C O M E  to  R O O T       *
+  *                                         *
+  *   Version   5.34/21  9 September 2014   *
+  *                                         *
+  *  You are welcome to visit our Web site  *
+  *          http://root.cern.ch            *
+  *                                         *
+  *******************************************
+
+ROOT 5.34/21 (v5-34-21@v5-34-21, Sep 09 2014, 15:29:00 on linuxx8664gcc)
+
+CINT/ROOT C/C++ Interpreter version 5.18.00, July 2, 2010
+Type ? for help. Commands must be C++ statements.
+Enclose multiple statements between { }.
+PulseSplitMCEnergy_v4r_May30.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outC14.root
+NEntries= 10000000
+1000060140 => 10000000
+Normalization= 10000000
+Processing MC Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outC14_v4_clustered.root
+NEntries= 9999908
+NBins= 160	 integralsum=9.99991e+06	 counts=9999908
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo60.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo60_v1.root
+NEntries= 8451109
+1000270600 => 8451109
+Normalization= 8451109
+Processing MC Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo60_v4_clustered.root
+NEntries= 7253459
+NBins= 2600	 integralsum=6.52227e+06	 counts=6522272
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo57.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo57_v1.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo57_v2.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo57_v3.root
+NEntries= 40000000
+1000260579 => 4
+1000270570 => 39999996
+Normalization= 39999996
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo57_v4_clustered.root
+NEntries= 1497586
+NBins= 400	 integralsum=848	 counts=848
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outK40.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outK40_v1.root
+NEntries= 20000000
+1000190400 => 20000000
+Normalization= 20000000
+Processing MC Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outK40_v4_clustered.root
+NEntries= 1428447
+NBins= 1600	 integralsum=1.20218e+06	 counts=1202181
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outTh232.root
+NEntries= 10000000
+1000812080 => 359653
+1000822120 => 999898
+1000832120 => 999771
+1000842120 => 640074
+1000842160 => 999923
+1000862200 => 999942
+1000882240 => 999964
+1000882280 => 1000151
+1000892280 => 1000150
+1000902280 => 999998
+1000902320 => 1000476
+Normalization= 1000476
+Normalization= 999942
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outTh232_v4_clustered.root
+NEntries= 1001475
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU235.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU235_v1.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU235_v2.root
+NEntries= 30000000
+1000150320 => 2
+1000812070 => 2719057
+1000812071 => 46
+1000822110 => 2726865
+1000832110 => 2727126
+1000832150 => 3
+1000842110 => 7723
+1000842150 => 2726906
+1000852190 => 3
+1000862190 => 2727060
+1000872230 => 37397
+1000882230 => 2727211
+1000892270 => 2727389
+1000902270 => 2689999
+1000902310 => 2727450
+1000912310 => 2727449
+1000922350 => 2728314
+Normalization= 2728314
+Normalization= 2727060
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU235_v4_clustered.root
+NEntries= 1156917
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU238.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU238_v1.root
+NEntries= 20000000
+1000812100 => 260
+1000822100 => 1428086
+1000822140 => 1428145
+1000832100 => 1428119
+1000832140 => 1428314
+1000842100 => 1428118
+1000842140 => 1428032
+1000842180 => 1428470
+1000852180 => 292
+1000862180 => 1
+1000862220 => 1428511
+1000882260 => 1428518
+1000902300 => 1428525
+1000902340 => 1428547
+1000912340 => 2287
+1000912341 => 1428558
+1000922340 => 1428557
+1000922341 => 19
+1000922380 => 1428641
+Normalization= 1428641
+Normalization= 1428511
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU238_v4_clustered.root
+NEntries= 1194158
+Successfully save MC Data.
+  *******************************************
+  *                                         *
+  *        W E L C O M E  to  R O O T       *
+  *                                         *
+  *   Version   5.34/21  9 September 2014   *
+  *                                         *
+  *  You are welcome to visit our Web site  *
+  *          http://root.cern.ch            *
+  *                                         *
+  *******************************************
+
+ROOT 5.34/21 (v5-34-21@v5-34-21, Sep 09 2014, 15:29:00 on linuxx8664gcc)
+
+CINT/ROOT C/C++ Interpreter version 5.18.00, July 2, 2010
+Type ? for help. Commands must be C++ statements.
+Enclose multiple statements between { }.
+PulseSplitMCEnergy_v2r_May30.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outC14.root
+NEntries= 10000000
+1000060140 => 10000000
+Normalization= 10000000
+Processing MC Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outC14_v2_clustered.root
+NEntries= 9999908
+NBins= 160	 integralsum=9.99991e+06	 counts=9999908
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo60.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo60_v1.root
+NEntries= 8451109
+1000270600 => 8451109
+Normalization= 8451109
+Processing MC Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo60_v2_clustered.root
+NEntries= 7253459
+NBins= 2600	 integralsum=6.52227e+06	 counts=6522272
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo57.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo57_v1.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo57_v2.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo57_v3.root
+NEntries= 40000000
+1000260579 => 4
+1000270570 => 39999996
+Normalization= 39999996
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo57_v2_clustered.root
+NEntries= 1497586
+NBins= 400	 integralsum=848	 counts=848
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outK40.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outK40_v1.root
+NEntries= 20000000
+1000190400 => 20000000
+Normalization= 20000000
+Processing MC Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outK40_v2_clustered.root
+NEntries= 1428447
+NBins= 1600	 integralsum=1.20218e+06	 counts=1202181
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outTh232.root
+NEntries= 10000000
+1000812080 => 359653
+1000822120 => 999898
+1000832120 => 999771
+1000842120 => 640074
+1000842160 => 999923
+1000862200 => 999942
+1000882240 => 999964
+1000882280 => 1000151
+1000892280 => 1000150
+1000902280 => 999998
+1000902320 => 1000476
+Normalization= 1000476
+Normalization= 999942
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outTh232_v2_clustered.root
+NEntries= 1001475
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU235.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU235_v1.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU235_v2.root
+NEntries= 30000000
+1000150320 => 2
+1000812070 => 2719057
+1000812071 => 46
+1000822110 => 2726865
+1000832110 => 2727126
+1000832150 => 3
+1000842110 => 7723
+1000842150 => 2726906
+1000852190 => 3
+1000862190 => 2727060
+1000872230 => 37397
+1000882230 => 2727211
+1000892270 => 2727389
+1000902270 => 2689999
+1000902310 => 2727450
+1000912310 => 2727449
+1000922350 => 2728314
+Normalization= 2728314
+Normalization= 2727060
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU235_v2_clustered.root
+NEntries= 1156917
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU238.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU238_v1.root
+NEntries= 20000000
+1000812100 => 260
+1000822100 => 1428086
+1000822140 => 1428145
+1000832100 => 1428119
+1000832140 => 1428314
+1000842100 => 1428118
+1000842140 => 1428032
+1000842180 => 1428470
+1000852180 => 292
+1000862180 => 1
+1000862220 => 1428511
+1000882260 => 1428518
+1000902300 => 1428525
+1000902340 => 1428547
+1000912340 => 2287
+1000912341 => 1428558
+1000922340 => 1428557
+1000922341 => 19
+1000922380 => 1428641
+Normalization= 1428641
+Normalization= 1428511
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU238_v2_clustered.root
+NEntries= 1194158
+Successfully save MC Data.
+  *******************************************
+  *                                         *
+  *        W E L C O M E  to  R O O T       *
+  *                                         *
+  *   Version   5.34/21  9 September 2014   *
+  *                                         *
+  *  You are welcome to visit our Web site  *
+  *          http://root.cern.ch            *
+  *                                         *
+  *******************************************
+
+ROOT 5.34/21 (v5-34-21@v5-34-21, Sep 09 2014, 15:29:00 on linuxx8664gcc)
+
+CINT/ROOT C/C++ Interpreter version 5.18.00, July 2, 2010
+Type ? for help. Commands must be C++ statements.
+Enclose multiple statements between { }.
+PulseSplitMCEnergy_v6r_May30.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outC14.root
+NEntries= 10000000
+1000060140 => 10000000
+Normalization= 10000000
+Processing MC Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outC14_v6_clustered.root
+NEntries= 9999908
+NBins= 160	 integralsum=9.99991e+06	 counts=9999908
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo60.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo60_v1.root
+NEntries= 8451109
+1000270600 => 8451109
+Normalization= 8451109
+Processing MC Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo60_v6_clustered.root
+NEntries= 7253459
+NBins= 2600	 integralsum=6.52227e+06	 counts=6522272
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo57.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo57_v1.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo57_v2.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo57_v3.root
+NEntries= 40000000
+1000260579 => 4
+1000270570 => 39999996
+Normalization= 39999996
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo57_v6_clustered.root
+NEntries= 1497586
+NBins= 400	 integralsum=848	 counts=848
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outK40.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outK40_v1.root
+NEntries= 20000000
+  *******************************************
+  *                                         *
+  *        W E L C O M E  to  R O O T       *
+  *                                         *
+  *   Version   5.34/21  9 September 2014   *
+  *                                         *
+  *  You are welcome to visit our Web site  *
+  *          http://root.cern.ch            *
+  *                                         *
+  *******************************************
+
+ROOT 5.34/21 (v5-34-21@v5-34-21, Sep 09 2014, 15:29:00 on linuxx8664gcc)
+
+CINT/ROOT C/C++ Interpreter version 5.18.00, July 2, 2010
+Type ? for help. Commands must be C++ statements.
+Enclose multiple statements between { }.
+PulseSplitMCEnergy_v6r_May30.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outC14.root
+NEntries= 10000000
+1000190400 => 20000000
+Normalization= 20000000
+Processing MC Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outK40_v6_clustered.root
+NEntries= 1428447
+NBins= 1600	 integralsum=1.20218e+06	 counts=1202181
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outTh232.root
+NEntries= 10000000
+1000812080 => 359653
+1000822120 => 999898
+1000832120 => 999771
+1000842120 => 640074
+1000842160 => 999923
+1000862200 => 999942
+1000882240 => 999964
+1000882280 => 1000151
+1000892280 => 1000150
+1000902280 => 999998
+1000902320 => 1000476
+Normalization= 1000476
+Normalization= 999942
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outTh232_v6_clustered.root
+NEntries= 1001475
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU235.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU235_v1.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU235_v2.root
+NEntries= 30000000
+  *******************************************
+  *                                         *
+  *        W E L C O M E  to  R O O T       *
+  *                                         *
+  *   Version   5.34/21  9 September 2014   *
+  *                                         *
+  *  You are welcome to visit our Web site  *
+  *          http://root.cern.ch            *
+  *                                         *
+  *******************************************
+
+ROOT 5.34/21 (v5-34-21@v5-34-21, Sep 09 2014, 15:29:00 on linuxx8664gcc)
+
+CINT/ROOT C/C++ Interpreter version 5.18.00, July 2, 2010
+Type ? for help. Commands must be C++ statements.
+Enclose multiple statements between { }.
+PulseSplitMCEnergy_v6r_May30.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outC14.root
+NEntries= 10000000
+1000060140 => 10000000
+Normalization= 10000000
+Processing MC Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outC14_v6_clustered.root
+NEntries= 9999908
+NBins= 160	 integralsum=9.99991e+06	 counts=9999908
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo60.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo60_v1.root
+NEntries= 8451109
+1000270600 => 8451109
+Normalization= 8451109
+Processing MC Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo60_v6_clustered.root
+NEntries= 7253459
+NBins= 2600	 integralsum=6.52227e+06	 counts=6522272
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo57.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo57_v1.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo57_v2.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo57_v3.root
+NEntries= 40000000
+1000260579 => 4
+1000270570 => 39999996
+Normalization= 39999996
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outCo57_v6_clustered.root
+NEntries= 1497586
+NBins= 400	 integralsum=848	 counts=848
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outK40.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outK40_v1.root
+NEntries= 20000000
+1000190400 => 20000000
+Normalization= 20000000
+Processing MC Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outK40_v6_clustered.root
+NEntries= 1428447
+NBins= 1600	 integralsum=1.20218e+06	 counts=1202181
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outTh232.root
+NEntries= 10000000
+1000812080 => 359653
+1000822120 => 999898
+1000832120 => 999771
+1000842120 => 640074
+1000842160 => 999923
+1000862200 => 999942
+1000882240 => 999964
+1000882280 => 1000151
+1000892280 => 1000150
+1000902280 => 999998
+1000902320 => 1000476
+Normalization= 1000476
+Normalization= 999942
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outTh232_v6_clustered.root
+NEntries= 1001475
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU235.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU235_v1.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU235_v2.root
+NEntries= 30000000
+1000150320 => 2
+1000812070 => 2719057
+1000812071 => 46
+1000822110 => 2726865
+1000832110 => 2727126
+1000832150 => 3
+1000842110 => 7723
+1000842150 => 2726906
+1000852190 => 3
+1000862190 => 2727060
+1000872230 => 37397
+1000882230 => 2727211
+1000892270 => 2727389
+1000902270 => 2689999
+1000902310 => 2727450
+1000912310 => 2727449
+1000922350 => 2728314
+Normalization= 2728314
+Normalization= 2727060
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU235_v6_clustered.root
+NEntries= 1156917
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU238.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU238_v1.root
+NEntries= 20000000
+1000812100 => 260
+1000822100 => 1428086
+1000822140 => 1428145
+1000832100 => 1428119
+1000832140 => 1428314
+1000842100 => 1428118
+1000842140 => 1428032
+1000842180 => 1428470
+1000852180 => 292
+1000862180 => 1
+1000862220 => 1428511
+1000882260 => 1428518
+1000902300 => 1428525
+1000902340 => 1428547
+1000912340 => 2287
+1000912341 => 1428558
+1000922340 => 1428557
+1000922341 => 19
+1000922380 => 1428641
+Normalization= 1428641
+Normalization= 1428511
+Processing Data file: /darkside/users/hqian/pulse_splitter/SDMCData/outU238_v6_clustered.root
+NEntries= 1194158
+Successfully save MC Data.
+  *******************************************
+  *                                         *
+  *        W E L C O M E  to  R O O T       *
+  *                                         *
+  *   Version   5.34/21  9 September 2014   *
+  *                                         *
+  *  You are welcome to visit our Web site  *
+  *          http://root.cern.ch            *
+  *                                         *
+  *******************************************
+
+ROOT 5.34/21 (v5-34-21@v5-34-21, Sep 09 2014, 15:29:00 on linuxx8664gcc)
+
+CINT/ROOT C/C++ Interpreter version 5.18.00, July 2, 2010
+Type ? for help. Commands must be C++ statements.
+Enclose multiple statements between { }.
+PulseSplitMCEnergy_v4k_Jun10.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/50daysMCData/outC14.root
+NEntries= 10000000
+1000060140 => 10000000
+Normalization= 10000000
+Processing MC Data file: /darkside/users/hqian/pulse_splitter/50daysMCData/outC14_v4_clustered.root
+NEntries= 9999897
+NBins= 160	 integralsum=9.9999e+06	 counts=9999897
+Processing Data file: /darkside/users/hqian/pulse_splitter/50daysMCData/outCo60.root
+NEntries= 10000000
+1000270600 => 10000000
+Normalization= 10000000
+Processing MC Data file: /darkside/users/hqian/pulse_splitter/50daysMCData/outCo60_v4_clustered.root
+NEntries= 8583349
+NBins= 2600	 integralsum=7.72219e+06	 counts=7722187
+Processing Data file: /darkside/users/hqian/pulse_splitter/50daysMCData/outCo57.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/50daysMCData/outCo57_v1.root
+NEntries= 20000000
+1000260579 => 2
+1000270570 => 19999998
+Normalization= 19999998
+Processing Data file: /darkside/users/hqian/pulse_splitter/50daysMCData/outCo57_v4_clustered.root
+NEntries= 749102
+NBins= 400	 integralsum=433	 counts=433
+Processing Data file: /darkside/users/hqian/pulse_splitter/50daysMCData/outK40.root
+NEntries= 10000000
+1000190400 => 10000000
+Normalization= 10000000
+Processing MC Data file: /darkside/users/hqian/pulse_splitter/50daysMCData/outK40_v4_clustered.root
+NEntries= 715919
+NBins= 1600	 integralsum=602839	 counts=602839
+Processing Data file: /darkside/users/hqian/pulse_splitter/50daysMCData/outTh232.root
+NEntries= 10000000
+1000812080 => 359549
+1000822120 => 999914
+1000832120 => 999774
+1000842120 => 640197
+1000842160 => 999921
+1000862200 => 999952
+1000882240 => 999981
+1000882280 => 1000140
+1000892280 => 1000140
+1000902280 => 1000005
+1000902320 => 1000427
+Normalization= 1000427
+Normalization= 999952
+Processing Data file: /darkside/users/hqian/pulse_splitter/50daysMCData/outTh232_v4_clustered.root
+NEntries= 1003095
+Processing Data file: /darkside/users/hqian/pulse_splitter/50daysMCData/outU235.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/50daysMCData/outU235_v1.root
+NEntries= 20000000
+1000150320 => 1
+1000812070 => 1812788
+1000812071 => 36
+1000822110 => 1817899
+1000832110 => 1818084
+1000832150 => 1
+1000842110 => 5056
+1000842150 => 1817973
+1000852190 => 1
+1000862190 => 1818049
+1000872230 => 25115
+1000882230 => 1818139
+1000892270 => 1818253
+1000902270 => 1793157
+1000902310 => 1818305
+1000912310 => 1818305
+1000922350 => 1818838
+Normalization= 1818838
+Normalization= 1818049
+Processing Data file: /darkside/users/hqian/pulse_splitter/50daysMCData/outU235_v4_clustered.root
+NEntries= 770667
+Processing Data file: /darkside/users/hqian/pulse_splitter/50daysMCData/outU238.root
+NEntries= 10000000
+1000812100 => 157
+1000822100 => 714047
+1000822140 => 714070
+1000832100 => 714055
+1000832140 => 714148
+1000842100 => 714055
+1000842140 => 713979
+1000842180 => 714211
+1000852180 => 143
+1000862220 => 714235
+1000882260 => 714242
+1000902300 => 714232
+1000902340 => 714284
+1000912340 => 1196
+1000912341 => 714278
+1000922340 => 714265
+1000922341 => 38
+1000922380 => 714365
+Normalization= 714365
+Normalization= 714235
+Processing Data file: /darkside/users/hqian/pulse_splitter/50daysMCData/outU238_v4_clustered.root
+NEntries= 596447
+Successfully save MC Data.
+  *******************************************
+  *                                         *
+  *        W E L C O M E  to  R O O T       *
+  *                                         *
+  *   Version   5.34/21  9 September 2014   *
+  *                                         *
+  *  You are welcome to visit our Web site  *
+  *          http://root.cern.ch            *
+  *                                         *
+  *******************************************
+
+ROOT 5.34/21 (v5-34-21@v5-34-21, Sep 09 2014, 15:29:00 on linuxx8664gcc)
+
+CINT/ROOT C/C++ Interpreter version 5.18.00, July 2, 2010
+Type ? for help. Commands must be C++ statements.
+Enclose multiple statements between { }.
+PulseSplitMCEnergy_v4r_Jun10.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/50daysMCData/outC14.root
+NEntries= 10000000
+1000060140 => 10000000
+Normalization= 10000000
+Processing MC Data file: /darkside/users/hqian/pulse_splitter/50daysMCData/outC14_v4_clustered.root
+NEntries= 9999897
+NBins= 160	 integralsum=9.9999e+06	 counts=9999897
+Processing Data file: /darkside/users/hqian/pulse_splitter/50daysMCData/outCo60.root
+NEntries= 10000000
+1000270600 => 10000000
+Normalization= 10000000
+Processing Data file: /darkside/users/hqian/pulse_splitter/50daysMCData/outCo60_v4_clustered.root
+NEntries= 8583349
+NBins= 1300	 integralsum=1.28195e+06	 counts=1281946
+Processing Data file: /darkside/users/hqian/pulse_splitter/50daysMCData/outCo57.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/50daysMCData/outCo57_v1.root
+NEntries= 20000000
+1000260579 => 2
+1000270570 => 19999998
+Normalization= 19999998
+Processing Data file: /darkside/users/hqian/pulse_splitter/50daysMCData/outCo57_v4_clustered.root
+NEntries= 749102
+NBins= 400	 integralsum=433	 counts=433
+Processing Data file: /darkside/users/hqian/pulse_splitter/50daysMCData/outK40.root
+NEntries= 10000000
+1000190400 => 10000000
+Normalization= 10000000
+Processing Data file: /darkside/users/hqian/pulse_splitter/50daysMCData/outK40_v4_clustered.root
+NEntries= 715919
+NBins= 800	 integralsum=16305	 counts=16305
+Processing Data file: /darkside/users/hqian/pulse_splitter/50daysMCData/outTh232.root
+NEntries= 10000000
+1000812080 => 359549
+1000822120 => 999914
+1000832120 => 999774
+1000842120 => 640197
+1000842160 => 999921
+1000862200 => 999952
+1000882240 => 999981
+1000882280 => 1000140
+1000892280 => 1000140
+1000902280 => 1000005
+1000902320 => 1000427
+Normalization= 1000427
+Normalization= 999952
+Processing Data file: /darkside/users/hqian/pulse_splitter/50daysMCData/outTh232_v4_clustered.root
+NEntries= 1003095
+Processing Data file: /darkside/users/hqian/pulse_splitter/50daysMCData/outU235.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/50daysMCData/outU235_v1.root
+NEntries= 20000000
+1000150320 => 1
+1000812070 => 1812788
+1000812071 => 36
+1000822110 => 1817899
+1000832110 => 1818084
+1000832150 => 1
+1000842110 => 5056
+1000842150 => 1817973
+1000852190 => 1
+1000862190 => 1818049
+1000872230 => 25115
+1000882230 => 1818139
+1000892270 => 1818253
+1000902270 => 1793157
+1000902310 => 1818305
+1000912310 => 1818305
+1000922350 => 1818838
+Normalization= 1818838
+Normalization= 1818049
+Processing Data file: /darkside/users/hqian/pulse_splitter/50daysMCData/outU235_v4_clustered.root
+NEntries= 770667
+Processing Data file: /darkside/users/hqian/pulse_splitter/50daysMCData/outU238.root
+NEntries= 10000000
+1000812100 => 157
+1000822100 => 714047
+1000822140 => 714070
+1000832100 => 714055
+1000832140 => 714148
+1000842100 => 714055
+1000842140 => 713979
+1000842180 => 714211
+1000852180 => 143
+1000862220 => 714235
+1000882260 => 714242
+1000902300 => 714232
+1000902340 => 714284
+1000912340 => 1196
+1000912341 => 714278
+1000922340 => 714265
+1000922341 => 38
+1000922380 => 714365
+Normalization= 714365
+Normalization= 714235
+Processing Data file: /darkside/users/hqian/pulse_splitter/50daysMCData/outU238_v4_clustered.root
+NEntries= 596447
+Successfully save MC Data.
+  *******************************************
+  *                                         *
+  *        W E L C O M E  to  R O O T       *
+  *                                         *
+  *   Version   5.34/21  9 September 2014   *
+  *                                         *
+  *  You are welcome to visit our Web site  *
+  *          http://root.cern.ch            *
+  *                                         *
+  *******************************************
+
+ROOT 5.34/21 (v5-34-21@v5-34-21, Sep 09 2014, 15:29:00 on linuxx8664gcc)
+
+CINT/ROOT C/C++ Interpreter version 5.18.00, July 2, 2010
+Type ? for help. Commands must be C++ statements.
+Enclose multiple statements between { }.
+PulseSplitMCEnergy_v4_Jun10.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/50daysMCData/outC14.root
+NEntries= 10000000
+1000060140 => 10000000
+Normalization= 10000000
+Processing MC Data file: /darkside/users/hqian/pulse_splitter/50daysMCData/outC14_v4_clustered.root
+NEntries= 9999897
+NBins= 160	 integralsum=9.9999e+06	 counts=9999897
+Processing Data file: /darkside/users/hqian/pulse_splitter/50daysMCData/outCo60.root
+NEntries= 10000000
+1000270600 => 10000000
+Normalization= 10000000
+Processing Data file: /darkside/users/hqian/pulse_splitter/50daysMCData/outCo60_v4_clustered.root
+NEntries= 8583349
+NBins= 1300	 integralsum=1.28195e+06	 counts=1281946
+Processing Data file: /darkside/users/hqian/pulse_splitter/50daysMCData/outCo57.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/50daysMCData/outCo57_v1.root
+NEntries= 20000000
+1000260579 => 2
+1000270570 => 19999998
+Normalization= 19999998
+Processing Data file: /darkside/users/hqian/pulse_splitter/50daysMCData/outCo57_v4_clustered.root
+NEntries= 749102
+NBins= 400	 integralsum=433	 counts=433
+Processing Data file: /darkside/users/hqian/pulse_splitter/50daysMCData/outK40.root
+NEntries= 10000000
+1000190400 => 10000000
+Normalization= 10000000
+Processing Data file: /darkside/users/hqian/pulse_splitter/50daysMCData/outK40_v4_clustered.root
+NEntries= 715919
+NBins= 800	 integralsum=16305	 counts=16305
+Processing Data file: /darkside/users/hqian/pulse_splitter/50daysMCData/outTh232.root
+NEntries= 10000000
+1000812080 => 359549
+1000822120 => 999914
+1000832120 => 999774
+1000842120 => 640197
+1000842160 => 999921
+1000862200 => 999952
+1000882240 => 999981
+1000882280 => 1000140
+1000892280 => 1000140
+1000902280 => 1000005
+1000902320 => 1000427
+Normalization= 1000427
+Normalization= 999952
+Processing Data file: /darkside/users/hqian/pulse_splitter/50daysMCData/outTh232_v4_clustered.root
+NEntries= 1003095
+Processing Data file: /darkside/users/hqian/pulse_splitter/50daysMCData/outU235.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/50daysMCData/outU235_v1.root
+NEntries= 20000000
+1000150320 => 1
+1000812070 => 1812788
+1000812071 => 36
+1000822110 => 1817899
+1000832110 => 1818084
+1000832150 => 1
+1000842110 => 5056
+1000842150 => 1817973
+1000852190 => 1
+1000862190 => 1818049
+1000872230 => 25115
+1000882230 => 1818139
+1000892270 => 1818253
+1000902270 => 1793157
+1000902310 => 1818305
+1000912310 => 1818305
+1000922350 => 1818838
+Normalization= 1818838
+Normalization= 1818049
+Processing Data file: /darkside/users/hqian/pulse_splitter/50daysMCData/outU235_v4_clustered.root
+NEntries= 770667
+Processing Data file: /darkside/users/hqian/pulse_splitter/50daysMCData/outU238.root
+NEntries= 10000000
+1000812100 => 157
+1000822100 => 714047
+1000822140 => 714070
+1000832100 => 714055
+1000832140 => 714148
+1000842100 => 714055
+1000842140 => 713979
+1000842180 => 714211
+1000852180 => 143
+1000862220 => 714235
+1000882260 => 714242
+1000902300 => 714232
+1000902340 => 714284
+1000912340 => 1196
+1000912341 => 714278
+1000922340 => 714265
+1000922341 => 38
+1000922380 => 714365
+Normalization= 714365
+Normalization= 714235
+Processing Data file: /darkside/users/hqian/pulse_splitter/50daysMCData/outU238_v4_clustered.root
+NEntries= 596447
+Successfully save MC Data.
+  *******************************************
+  *                                         *
+  *        W E L C O M E  to  R O O T       *
+  *                                         *
+  *   Version   5.34/21  9 September 2014   *
+  *                                         *
+  *  You are welcome to visit our Web site  *
+  *          http://root.cern.ch            *
+  *                                         *
+  *******************************************
+
+ROOT 5.34/21 (v5-34-21@v5-34-21, Sep 09 2014, 15:29:00 on linuxx8664gcc)
+
+CINT/ROOT C/C++ Interpreter version 5.18.00, July 2, 2010
+Type ? for help. Commands must be C++ statements.
+Enclose multiple statements between { }.
+PulseSplitMCEnergy_v4t_Jun10.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/50daysMCData/outC14.root
+NEntries= 10000000
+1000060140 => 10000000
+Normalization= 10000000
+Processing MC Data file: /darkside/users/hqian/pulse_splitter/50daysMCData/outC14_v4_clustered.root
+NEntries= 9999897
+NBins= 160	 integralsum=9.9999e+06	 counts=9999897
+Processing Data file: /darkside/users/hqian/pulse_splitter/50daysMCData/outCo60.root
+NEntries= 10000000
+1000270600 => 10000000
+Normalization= 10000000
+Processing Data file: /darkside/users/hqian/pulse_splitter/50daysMCData/outCo60_v4_clustered.root
+NEntries= 8583349
+NBins= 1300	 integralsum=7.72219e+06	 counts=7722187
+Processing Data file: /darkside/users/hqian/pulse_splitter/50daysMCData/outCo57.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/50daysMCData/outCo57_v1.root
+NEntries= 20000000
+1000260579 => 2
+1000270570 => 19999998
+Normalization= 19999998
+Processing Data file: /darkside/users/hqian/pulse_splitter/50daysMCData/outCo57_v4_clustered.root
+NEntries= 749102
+NBins= 400	 integralsum=416577	 counts=416577
+Processing Data file: /darkside/users/hqian/pulse_splitter/50daysMCData/outK40.root
+NEntries= 10000000
+1000190400 => 10000000
+Normalization= 10000000
+Processing Data file: /darkside/users/hqian/pulse_splitter/50daysMCData/outK40_v4_clustered.root
+NEntries= 715919
+NBins= 800	 integralsum=602839	 counts=602839
+Processing Data file: /darkside/users/hqian/pulse_splitter/50daysMCData/outTh232.root
+NEntries= 10000000
+1000812080 => 359549
+1000822120 => 999914
+1000832120 => 999774
+1000842120 => 640197
+1000842160 => 999921
+1000862200 => 999952
+1000882240 => 999981
+1000882280 => 1000140
+1000892280 => 1000140
+1000902280 => 1000005
+1000902320 => 1000427
+Normalization= 1000427
+Normalization= 999952
+Processing Data file: /darkside/users/hqian/pulse_splitter/50daysMCData/outTh232_v4_clustered.root
+NEntries= 1003095
+Processing Data file: /darkside/users/hqian/pulse_splitter/50daysMCData/outU235.root
+Processing Data file: /darkside/users/hqian/pulse_splitter/50daysMCData/outU235_v1.root
+NEntries= 20000000
+1000150320 => 1
+1000812070 => 1812788
+1000812071 => 36
+1000822110 => 1817899
+1000832110 => 1818084
+1000832150 => 1
+1000842110 => 5056
+1000842150 => 1817973
+1000852190 => 1
+1000862190 => 1818049
+1000872230 => 25115
+1000882230 => 1818139
+1000892270 => 1818253
+1000902270 => 1793157
+1000902310 => 1818305
+1000912310 => 1818305
+1000922350 => 1818838
+Normalization= 1818838
+Normalization= 1818049
+Processing Data file: /darkside/users/hqian/pulse_splitter/50daysMCData/outU235_v4_clustered.root
+NEntries= 770667
+Processing Data file: /darkside/users/hqian/pulse_splitter/50daysMCData/outU238.root
+NEntries= 10000000
+1000812100 => 157
+1000822100 => 714047
+1000822140 => 714070
+1000832100 => 714055
+1000832140 => 714148
+1000842100 => 714055
+1000842140 => 713979
+1000842180 => 714211
+1000852180 => 143
+1000862220 => 714235
+1000882260 => 714242
+1000902300 => 714232
+1000902340 => 714284
+1000912340 => 1196
+1000912341 => 714278
+1000922340 => 714265
+1000922341 => 38
+1000922380 => 714365
+Normalization= 714365
+Normalization= 714235
+Processing Data file: /darkside/users/hqian/pulse_splitter/50daysMCData/outU238_v4_clustered.root
+NEntries= 596447
+Successfully save MC Data.
